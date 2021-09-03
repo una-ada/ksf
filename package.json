@@ -1,6 +1,6 @@
 {
   "name": "kd-sort-footnotes",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Sorts the footnotes in a kramdown file.",
   "main": "index.js",

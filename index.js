@@ -3,8 +3,8 @@
 /**
  * Kramdown Sort Numbered Footnotes
  * @author Una Ada <una@anarchy.website>
- * @version 2021.09.02
- * @since 2021.09.02
+ * @version 0.1.1
+ * @since 0.1.0
  */
 
 import { readFile, writeFile } from 'fs/promises';
