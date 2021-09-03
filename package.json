@@ -1,5 +1,5 @@
 {
-  "name": "kd-sort-footnotes",
+  "name": "@una-ada/ksf",
   "version": "0.1.1",
   "type": "module",
   "description": "Sorts the footnotes in a kramdown file.",
