@@ -4,23 +4,23 @@
     "ksf": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/una-ada/kd-sort-footnotes/issues"
+    "url": "https://github.com/una-ada/ksf/issues"
   },
   "description": "A simple command line utility for sorting numbered footnotes in Kramdown files.",
   "dependencies": {
     "yargs": "^17.1.1"
   },
-  "homepage": "https://github.com/una-ada/kd-sort-footnotes",
+  "homepage": "https://github.com/una-ada/ksf",
   "license": "MIT",
   "main": "index.js",
   "name": "@una-ada/ksf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/una-ada/kd-sort-footnotes.git"
+    "url": "https://github.com/una-ada/ksf.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "version": "0.1.1"
+  "version": "1.0.1"
 }
