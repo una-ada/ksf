@@ -12,4 +12,3 @@ npm i -g @una-ada/ksf
 ksf essay.md
 ksf article.md -dest article-sorted.md
 ```
-
