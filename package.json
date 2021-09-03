@@ -1,0 +1,12 @@
+{
+  "name": "kd-sort-footnotes",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sorts the footnotes in a kramdown file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Una Ada",
+  "license": "MIT"
+}
